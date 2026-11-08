@@ -1,0 +1,10 @@
+# Masjid Kannelmäki – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Kannelmäki"
+description: "Masjid Kannelmäki, Sitratie 7, 00420 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-kannelmaki     # tiedosto _moskeijat/masjid-kannelmaki.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-kannelmaki/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-kannelmaki"
